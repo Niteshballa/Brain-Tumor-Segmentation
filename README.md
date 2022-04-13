@@ -5,7 +5,7 @@
 <li>U-net is very powerful model for Image segmentation in bio medical analysis. Additional power for U-Net to up-sample and down-sample helps it to perform even more better than the regular U-Net.</li>
 </ul>
 
-<img href="Unet+Inception.png"/>
+![image](https://user-images.githubusercontent.com/66734659/163165531-be59643d-7e3b-45f5-b0c9-bad5d7d45003.png)
 
 <ul>
   <li>The image in the figure demonstrates the architecture of our model. 
